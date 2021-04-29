@@ -195,3 +195,4 @@ folium.GeoJson(
     popup=popup).add_to(heatmap)
 
 folium_static(map1)
+
